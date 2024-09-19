@@ -32,3 +32,4 @@ O jogo utiliza um laço while (true) para continuar indefinidamente até que o j
 A função Random() gera uma escolha aleatória para o computador.
 O código verifica o resultado da partida comparando as escolhas do jogador e do computador e exibe o resultado correspondente.
 Basta rodar o código e seguir as instruções que aparecerão no console.
+<img src="/Fotos/PedraPapelTesoura.png">
